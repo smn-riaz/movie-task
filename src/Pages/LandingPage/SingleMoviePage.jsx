@@ -55,7 +55,7 @@ const SingleMoviePage = () => {
         <div>
           <div className="text-center">
             <Link to="/">
-              <button className="hover:bg-gray-600 transition duration-500 px-2 py-1">
+              <button className="bg-gray-600 transition duration-500 p-3 hover:bg-gray-500 text-white">
                 <FontAwesomeIcon icon={faHome} /> HOME
               </button>
             </Link>
