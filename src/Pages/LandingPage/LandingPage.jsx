@@ -74,6 +74,8 @@ const LandingPage = () => {
           </div>
         </section>
       )}
+
+<h5 className="text-center text-lg p-4">Developed by <a href="https://www.linkedin.com/in/shahman-riaz/" className="font-semibold">Shahman Riaz</a></h5>
     </main>
   );
 };
